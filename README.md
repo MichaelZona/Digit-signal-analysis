@@ -16,6 +16,6 @@ xlrd==1.2.0
 numpy
 matplotlib
 ```
-If you have any questions, please contact me: <2462970640@qq.com>.
+If you have any questions, please contact me: <michaelzhangziniu@gmail.com>.
 
 Thanks very much!
